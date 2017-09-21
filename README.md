@@ -8,3 +8,13 @@ Outcome of the discussion at the Meetup in Krakow:
 
 ![Photo of our notes on whiteboard](20170920_192140.jpg)
 
+* [Intro](0-intro)
+* [Open Source audio calls](1-open-course-audio-calls.md) (open source apps, also apps on open source platforms such as Linux and Google-less Android)
+* [What is XMPP not for?](2-what-is-xmpp-not-for.md)
+* [How to detect spam messages](3-how-to-detect-spam-messages.md)
+* [Team chat that is open source and open standards](4-team-chat-open-source-open-standard.md)
+* [Low bandwidth voice communication](5-low-bandwidth-voice-comm.md)
+* [IM for something different than user-to-user communication](6-im-different-user-2-user.md)
+* [How to make money on open source IM solution?](7-how-to-make-money-open-source.md)
+
+That's it! ;-)
