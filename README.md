@@ -8,6 +8,8 @@ Outcome of the discussion at the Meetup in Krakow:
 
 ![Photo of our notes on whiteboard](20170920_192140.jpg)
 
+Please contribute with PRs and reviews! ;-)
+
 * [Intro](0-intro)
 * [Open Source audio calls](1-open-course-audio-calls.md) (open source apps, also apps on open source platforms such as Linux and Google-less Android)
 * [What is XMPP not for?](2-what-is-xmpp-not-for.md)
