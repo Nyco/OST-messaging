@@ -10,7 +10,7 @@ Outcome of the discussion at the Meetup in Krakow:
 
 Please contribute with PRs and reviews! ;-)
 
-* [Intro](0-intro)
+* [Intro](0-intro.md)
 * [Open Source audio calls](1-open-source-audio-calls.md) (open source apps, also apps on open source platforms such as Linux and Google-less Android)
 * [What is XMPP not for?](2-what-is-xmpp-not-for.md)
 * [How to detect spam messages](3-how-to-detect-spam-messages.md)
