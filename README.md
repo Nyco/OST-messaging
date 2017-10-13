@@ -1,5 +1,6 @@
 # OST-messaging
-2017-09-20 XMPP/Jabber Messaging/Chat Open Space Technology
+
+On "XMPP/Jabber Messaging Kraków" meetup group: Unconference, Open Space Technology on messaging/chat #OMGKRK
 
 Outcome of the discussion at the Meetup in Krakow, on 20th September 2017:
 * https://www.meetup.com/XMPP-Jabber-Messaging-Krakow/events/242086909/
@@ -20,3 +21,5 @@ Please contribute with PRs and reviews! ;-)
 * [7. How to make money on open source IM solution?](7-how-to-make-money-open-source.md)
 
 That's it! ;-)
+
+Published under license: Creative Commons Attribution 4.0 International (CC BY 4.0)
